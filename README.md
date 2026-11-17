@@ -29,5 +29,5 @@ All submitted projects **must be hosted using free GitHub project domains** (via
 
 | Team Name | Members' Names | Presenting Time |
 | :--- | :--- | :--- |
-| Team 1 *(Example)* | Nawal Fadi ([@nawalfadi](https://github.com/nawalfadi)) — [Live Project](https://nawalfadi.github.io/example-project) | 11:00 AM - 11:10 AM |
-| *Team Name* | *Member 1, Member 2 — [Live Project](https://username.github.io/repo-name)* | *HH:MM AM/PM* |
+|*(Example)* | Nawal Fadi ([@nawalfadi](https://github.com/nawalfadi)) — [Live Project](https://nawalfadi.github.io/example-project) | 11:00 AM - 11:10 AM |
+| Team 1 | Noor Ul Ain Syeda, Nusaybah Farheen, Hiba Ahmer, Yosr BelFalah — [Live Project](https://noorulain-syeda.github.io/portfolio-starter/)* | 11:05 AM - 11:10 |
